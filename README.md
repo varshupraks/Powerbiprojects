@@ -59,3 +59,17 @@ Your feedbacks are valued
 
 Dashboard live link:https://lnkd.in/ghTcpRBj
 
+5.Superstore Dashboard
+Glad to be a part of Deeksha Anand 's Workshop on Power Bi Crash Course powered by GrowthSchool.
+Feedback : My feedback's to reduce the transparency in my background image or change it so that it tweaks the visuals and be more focused on the insights
+
+Fix: I went ahead and used a shape to cover up my entire background, reduced the luminance and finally reattached the background.(Refer the Image that I rectified from the feedback provided) Didn't work out . Modified the background to a solid color
+
+Modified design: https://lnkd.in/gzQ4SgZu
+
+
+What I learnt from this?
+
+1. Your design should be monotonous
+
+2. Modify Background image and it should be less transparent and not overpowering the significant key metrics and visuals . So that it attracts stakeholder's attention and provides more readability to the data
