@@ -1,5 +1,5 @@
 # projects
-Welcome to view my Data Analytics Projects
+Welcome to my Data Analytics Projects!
 1.ATLIQ SUPPLY CHAIN DASHBOARD:
 𝐏𝐫𝐨𝐛𝐥𝐞𝐦:
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
