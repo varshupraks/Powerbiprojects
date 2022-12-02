@@ -67,9 +67,13 @@ Fix: I went ahead and used a shape to cover up my entire background, reduced the
 
 Modified design: https://lnkd.in/gzQ4SgZu
 
-
 What I learnt from this?
 
 1. Your design should be monotonous
 
 2. Modify Background image and it should be less transparent and not overpowering the significant key metrics and visuals . So that it attracts stakeholder's attention and provides more readability to the data
+
+6.Call center Dashboard:
+I've successfully managed to create a dashboard about customer retention data of PwC provided by Forage as a part of Virtual Internship
+Insights are explained in video :Linkedin Post link: https://www.linkedin.com/posts/varshini-prakashbabu-75b004113_data-learning-internship-activity-6962803489462788096-yhef?utm_source=share&utm_medium=member_desktop
+Dashboard link: https://lnkd.in/gYhkYHnb
