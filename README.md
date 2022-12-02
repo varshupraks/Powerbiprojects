@@ -45,3 +45,17 @@ Dashboard link: https://lnkd.in/gJxNPR69
 Insights: I've attached a video in Linkedin and did a walkthrough on my dashboard to explain my insights gathered from the dataset.
 LinkedIn post:https://www.linkedin.com/posts/varshini-prakashbabu-75b004113_storytelling-powerbi-video-activity-6971451395648491520-VSRa?utm_source=share&utm_medium=member_desktop
 
+4.Maven Space Missions Challenge :
+-A single page visual of Space Missions Interactive Dashboard
+-Contains Space Data from August 1957- August 2022
+-Contains Cost details,Launch date and time, yearly & monthly missions,top missions etc.
+
+Theme:
+1. I have created this in "Rick and Morty" theme to showcase as if Rick walks you through this dashboard. Pretty exciting ,isn't it?
+2. To represent the occasion of 76th Indian Independence Day 2022 on August 15, I have highlighted this dashboard with Indian flags
+
+Thanks a lot to Maven Analytics for providing this challenge. It is purely a great experience to showcase our innovative skills in a single page .
+Your feedbacks are valued
+
+Dashboard live link:https://lnkd.in/ghTcpRBj
+
