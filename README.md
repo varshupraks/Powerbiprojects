@@ -37,3 +37,11 @@ Takeaways:
 5. Used KPIs to show if we have achieved our monthly targets
 6. Explained my ideas and common strategies that most of the companies utilizes which grasps guest's attention
 7. Marketing & Partnerships plays a major roles and the online appearance with great marketing strategies increases the popularity among the guests
+
+3.Attrition Dashboard:
+Dashboard: Attrition of a company
+Dashboard link: https://lnkd.in/gJxNPR69
+
+Insights: I've attached a video in Linkedin and did a walkthrough on my dashboard to explain my insights gathered from the dataset.
+LinkedIn post:https://www.linkedin.com/posts/varshini-prakashbabu-75b004113_storytelling-powerbi-video-activity-6971451395648491520-VSRa?utm_source=share&utm_medium=member_desktop
+
