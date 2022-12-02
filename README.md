@@ -23,3 +23,17 @@ Learnt how to create simple DAX measures
 
 𝐍𝐨𝐯𝐲𝐩𝐫𝐨 𝐋𝐢𝐧𝐤 𝐭𝐨 𝐦𝐲 𝐝𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝: https://lnkd.in/gqw-URXN
 
+2.ATLIQ Hospitality Dashboard:
+Participated in Code Basics Hospitality Challenge .
+Special Thanks to Dhaval Patel and Hemanand Vadivel for conducting this challenge. It really helped on improving my Data Visualization and Storytelling skills. Please provide your feedback and let me know if my insights are helpful
+
+Link to the dashboard: https://lnkd.in/gtDZZW5z
+
+Takeaways:
+1. We have to ask questions to the clients to understand and get better clarity about company's mechanism (Eg.,What are "Others" refers to ? From which platform are they booking then?What facilites and services offered to Elite and Premium class that differentiate it from other categories?)
+2. Learnt how to use Drill Through, choosing right color pallettes and navigation options.
+3. Focused on learning how to create a data model and form meaningful relationships, designing a professional dashboard with correct alignment
+4. Utilized Line graphs to showcase the monthly revenue and capacity trends
+5. Used KPIs to show if we have achieved our monthly targets
+6. Explained my ideas and common strategies that most of the companies utilizes which grasps guest's attention
+7. Marketing & Partnerships plays a major roles and the online appearance with great marketing strategies increases the popularity among the guests
